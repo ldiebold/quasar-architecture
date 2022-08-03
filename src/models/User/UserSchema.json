@@ -1,0 +1,16 @@
+{
+  "entity": "users",
+  "pascalName": "User",
+  "color": "grey",
+  "fields": {
+    "name": {
+      "dataType": "String"
+    },
+    "username": {
+      "dataType": "String"
+    },
+    "email": {
+      "dataType": "String"
+    }
+  }
+}
